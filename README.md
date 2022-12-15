@@ -2,7 +2,7 @@
 
 ![ViewCount](https://komarev.com/ghpvc/?username=riso1410)  
    
-I'm an university student, who is interested in computer science. I love coding and solving problems. There are also many thinks which I'd like to learn for my future profession. My future plans are to become software engineer, game developer or cybersecurity engineer. 
+I'm an university student, who is interested in computer science. I love coding and solving problems. There are also many thinks which I'd like to learn for my future profession. For now my plan is to become a software engineer, game developer or cybersecurity engineer. 
 
 #
 
