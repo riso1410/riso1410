@@ -23,11 +23,11 @@ I'm an university student, who is interested in computer science. I love coding 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   I started coding recently, but I'm trying my best 💯
-    `while(alive)
+  **`while(alive)
     {
         eat();
         code();
         sleep();
         repeat();
-    }`
+    }`**
 
