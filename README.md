@@ -1,6 +1,6 @@
 # :mortar_board: Rišo Šléher
 
-**'Digital Craftsman'**
+**`Digital Craftsman`**
 
 I'm an university student, who is interested in computer science. I love coding and solving problems. There are also many thinks which I'd like to learn for my future profession. My future plans are to become software engineer, game developer or cybersecurity engineer. 
 
@@ -18,6 +18,8 @@ I'm an university student, who is interested in computer science. I love coding 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=riso1410&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
 #
+
+<details>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+  I started coding recently, but I'm trying my best 💯
