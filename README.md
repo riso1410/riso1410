@@ -21,7 +21,3 @@ I'm a university student, who is interested in computer science. I love coding a
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=riso1410&show_icons=true&theme=gruvbox)
 
 #
-
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-  I started coding recently, but I'm trying my best 💯
