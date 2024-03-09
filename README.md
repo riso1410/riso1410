@@ -16,8 +16,4 @@ I'm a university student, who is interested in computer science. I love coding a
 
 #
 
-### 📊 Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=riso1410&show_icons=true&theme=gruvbox)
-
-#
