@@ -11,8 +11,6 @@ Data Science Intern at Slovenské elektrárne
 
 I am a passionate data science enthusiast with a strong interest in Large Language Models (LLMs), Machine Learning (ML), Artificial Intelligence (AI), Natural Language Processing (NLP), and Computer Vision. My current role involves leveraging data to drive insights and innovation in the energy sector. I am continuously expanding my knowledge and skills in these areas and I am excited to contribute to the field of data science through various projects and collaborations.
 
-#
-
 ## 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
