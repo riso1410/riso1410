@@ -1,7 +1,7 @@
 # :mortar_board: Rišo Šléher 
 
-![ViewCount](https://komarev.com/ghpvc/?username=riso1410)  
-   
+I like to train models on trash datasets.
+
 ## 👋 About Me
 Richard Šléher 
 
