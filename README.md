@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Richard Šléher<br><br>22 years old<br><br>Data Science Intern at Slovenské Elektrárne<br><br>I am a passionate data scientist with interest in Large Language Models (LLMs), Machine Learning (ML) and Natural Language Processing (NLP). My current job involves innovation to the energy sector in Slovenské elektrárne. Mainly with building LLM systems. I am continuously expanding my knowledge and skills in these areas. I am excited to contribute to the field of data science through various projects and collaborations.</p>
+<p align="left">Richard Šléher<br><br>22 years old<br><br>Junior AI Developer at Aspecta<br><br></p>
 
 ###
 
