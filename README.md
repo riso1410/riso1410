@@ -2,4 +2,4 @@
 
 ###
 
-<p align="left">Building software and just hanging around.</p>
+<p align="left">Coding and just hanging around.</p>
